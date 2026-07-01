@@ -59,14 +59,14 @@ Please help me run a structured 5 Whys analysis for this problem:
 
 Problem statement: [your problem statement from Define phase]
 
-For each Why, push past the obvious answer to the systemic cause. After 5 iterations, identify:
+For each Why, push past the obvious answer to the systemic cause.
+After 5 iterations, identify:
 1. The verified root cause
 2. Whether it is a People, Process, or System issue
 3. Recommended corrective action type (immediate fix vs systemic change)
 ```
 
 ### Before vs After Example:
-
 **Problem:** Catalogue items are misclassified at 12% defect rate.
 
 | Why # | Shallow Answer (manual) | Deep Answer (AI-guided) |
@@ -102,7 +102,8 @@ Please:
 4. Generate a hypothesis statement for each top pattern
 ```
 
-### AI Output Example (synthetic Amazon-style data):
+### AI Output Example (sample data — for illustration only):
+
 **Top Patterns Identified:**
 
 | Pattern | % of Defects | Hypothesis |
