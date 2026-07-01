@@ -1,7 +1,7 @@
 # Prompt Template: AI-Generated Project Charter
 
-**Phase:** Define  
-**Tool:** ChatGPT / Copilot / Gemini  
+**Phase:** Define
+**Tool:** ChatGPT / Copilot / Gemini
 **Time to output:** 60 seconds
 
 ---
@@ -47,14 +47,16 @@ Please generate a complete Project Charter with these sections:
 
 **Your input:**
 ```
-Our warehouse catalogue classification process has a 12% defect rate, causing rework and customer complaints. This is happening in the FC operations team across 3 shifts. We estimate 30 minutes of rework per shift at EUR 25/hour.
+Our warehouse catalogue classification process has a 12% defect rate, causing rework and customer complaints. This is happening in the operations team across 3 shifts. We estimate 30 minutes of rework per shift at EUR 25/hour.
 ```
 
-**AI Charter (excerpt):**
+**AI Charter (sample output — for illustration only):**
 ```
-Problem Statement: Incorrectly classified catalogue items are generating a 12% defect rate in FC operations, resulting in approximately 1.5 hours of daily rework (EUR 13,500 annual cost) and downstream customer-facing fulfilment errors.
+Problem Statement:
+Incorrectly classified catalogue items are generating a 12% defect rate in operations, resulting in approximately 1.5 hours of daily rework (EUR 13,500 annual cost) and downstream customer-facing fulfilment errors.
 
-Project Goal: Reduce catalogue defect rate from 12% to less than 3% within 90 days, achieving EUR 10,000+ annual cost saving.
+Project Goal:
+Reduce catalogue defect rate from 12% to less than 3% within 90 days, achieving EUR 10,000+ annual cost saving.
 
 Success Metrics:
 1. Catalogue defect rate (target: less than 3%)
