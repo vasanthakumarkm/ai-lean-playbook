@@ -1,6 +1,6 @@
 # AI + Lean Six Sigma DMAIC Playbook
 
-> **Built for ops professionals, Green Belts, and consulting teams in Ireland and beyond.**
+> **Built for ops professionals, Green Belts, and consulting teams and beyond.**
 
 [![Public](https://img.shields.io/badge/Access-Public-brightgreen)](https://github.com/vasanthakumarkm/ai-lean-playbook)
 [![DMAIC](https://img.shields.io/badge/Framework-DMAIC-blue)]()
