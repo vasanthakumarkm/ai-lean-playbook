@@ -16,7 +16,7 @@ AI tools (ChatGPT, Microsoft Copilot, Gemini) don't replace the rigour of Lean S
 
 Most candidates either know Lean Six Sigma **or** AI. This playbook bridges both.
 
-**This playbook was inspired by a real Amazon DMAIC project (PFV-BIC defect mitigation) where AI-augmented initiation could have cut project start-up from 2 weeks to 3 days.**
+**This playbook was inspired by my real project (NVA Elimination CX-ops-AMAZON ) where AI-augmented initiation could have cut project start-up from 2 weeks to 3 days.**
 
 ---
 
