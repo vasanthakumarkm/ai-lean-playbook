@@ -1,6 +1,6 @@
 # AI + Lean Six Sigma DMAIC Playbook
 
-> **Built for ops professionals, Green Belts, and consulting teams and beyond.**
+> **Built for ops professionals, Green Belts, and consulting teams in Ireland and beyond.**
 
 [![Public](https://img.shields.io/badge/Access-Public-brightgreen)](https://github.com/vasanthakumarkm/ai-lean-playbook)
 [![DMAIC](https://img.shields.io/badge/Framework-DMAIC-blue)]()
@@ -16,7 +16,7 @@ AI tools (ChatGPT, Microsoft Copilot, Gemini) don't replace the rigour of Lean S
 
 Most candidates either know Lean Six Sigma **or** AI. This playbook bridges both.
 
-**This playbook was inspired by my real project (NVA Elimination CX-ops-AMAZON ) where AI-augmented initiation could have cut project start-up from 2 weeks to 3 days.**
+**This playbook demonstrates how AI-augmented initiation can cut project start-up from 2 weeks to 3 days — using a sample NVA Elimination scenario in a customer operations environment.**
 
 ---
 
@@ -34,8 +34,7 @@ Most candidates either know Lean Six Sigma **or** AI. This playbook bridges both
 
 ## Prompt Templates
 
-Reusable `.md` prompt files are stored in [`/prompt-templates`](prompt-templates/):
-
+Reusable `.md` prompt files are stored in [/prompt-templates](prompt-templates/):
 - [`project-charter-prompt.md`](prompt-templates/project-charter-prompt.md)
 - [`fishbone-prompt.md`](prompt-templates/fishbone-prompt.md)
 - [`5-whys-prompt.md`](prompt-templates/5-whys-prompt.md)
@@ -44,36 +43,22 @@ Reusable `.md` prompt files are stored in [`/prompt-templates`](prompt-templates
 
 ---
 
-## Python Automation
+## Automation Script
 
-The [`/scripts`](scripts/) folder contains:
+A Python SPC Control Chart Generator is available in [`/scripts`](scripts/). It reads sample process data and generates control charts with UCL/LCL boundaries.
 
-- [`spc_chart.py`](scripts/spc_chart.py) — SPC Control Chart Generator: input a CSV of process measurements, output an X-bar chart with UCL/LCL lines, flagging out-of-control points.
-
----
-
-## How to Use This Playbook
-
-1. Navigate to the chapter matching your current DMAIC phase.
-2. Copy the prompt template for the task you need.
-3. Paste into ChatGPT / Copilot with your real process data.
-4. Use the Python script to generate your SPC chart for the Control phase.
+> All project examples and data in this playbook are **sample scenarios** created for demonstration purposes.
 
 ---
 
-## Target Audience
+## Who This Is For
 
-- Operations Managers and Process Analysts
-- Lean Six Sigma Green Belts and Black Belts
-- Consulting teams in Ireland and the UK
-- Anyone transitioning from manual DMAIC to AI-augmented continuous improvement
-
----
-
-## About the Author
-
-Built by a business transformation professional with hands-on DMAIC project experience in high-volume operations environments. This playbook reflects real project work, not theory.
+- Operations professionals and Green/Black Belts looking to accelerate DMAIC delivery
+- Consulting teams preparing AI-enabled transformation proposals
+- Anyone bridging process excellence and AI tool adoption
 
 ---
 
-*Star this repo if it's useful. Contributions and feedback welcome.*
+## License
+
+Open access. Fork it, adapt it, use it.
